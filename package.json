@@ -2,7 +2,7 @@
   "name": "image-gallery",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rkaur050github.io/image-gallery",
+  "homepage": ".",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
     "@fortawesome/free-regular-svg-icons": "^6.5.1",
